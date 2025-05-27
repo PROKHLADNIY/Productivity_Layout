@@ -16,7 +16,7 @@
     inset: 0;
     left: 50%;
     width: min(100%, 120rem);
-    background: url('/img/main/plan/clouds.avif');
+    background: url('../img/main/plan/clouds.avif');
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -247,7 +247,7 @@
     content: '';
     top: 0;
     left: 0;
-    background: url('/img/main/about/clouds.png');
+    background: url('../img/main/about/clouds.png');
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
@@ -937,7 +937,7 @@
     inset: 0;
     left: 50%;
     width: min(100%, 120rem);
-    background: url('/img/main/plan/clouds.avif');
+    background: url('../img/main/plan/clouds.avif');
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
